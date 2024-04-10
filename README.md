@@ -23,7 +23,6 @@ a.jansenvanvuuren@gsi.de
 
 
 We wish you will find our (future) repositories interesting,
-
 The Vandevoorde group
 
 
