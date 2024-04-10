@@ -14,7 +14,7 @@ If you find the research we do interesting  please check out our group website:
 (which is still under construction 🚧)
 
 For other interesting research please check out the GSI website:
-[(https://www.gsi.de/en/start/news)]
+https://www.gsi.de/en/start/news
 
 If you have questions or would like to reach out, you can do so via email:
 c.vandevoorde@gsi.de
@@ -22,7 +22,7 @@ g.bakos@gsi.de
 a.jansenvanvuuren@gsi.de
 
 
-We hope you will find our (future) repositories interesting!
+We hope you will find our (future) repositories interesting!   
 The Vandevoorde group
 
 
