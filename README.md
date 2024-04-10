@@ -13,12 +13,12 @@ Contact:
 If you find the research we do interesting  please check out our group website:
 (which is still under construction 🚧)
 
-For other interesting research please check out the GSI website:
-https://www.gsi.de/en/start/news
+For other interesting research please check out the [GSI website](https://www.gsi.de/en/start/news)
 
-If you have questions or would like to reach out, you can do so via email:
-c.vandevoorde@gsi.de
-g.bakos@gsi.de
+If you have questions or would like to reach out, you can do so via email:   
+c.vandevoorde@gsi.de   
+g.bakos@gsi.de   
+J.Jansen@gsi.de   
 a.jansenvanvuuren@gsi.de
 
 
