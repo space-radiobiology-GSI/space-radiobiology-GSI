@@ -16,8 +16,7 @@ If you find the research we do interesting  please check out our group website:
 For other interesting research please check out the [GSI website](https://www.gsi.de/en/start/news)
 
 If you have questions or would like to reach out, you can do so via email:   
-c.vandevoorde@gsi.de   
-g.bakos@gsi.de   
+c.vandevoorde@gsi.de      
 J.Jansen@gsi.de   
 a.jansenvanvuuren@gsi.de
 
